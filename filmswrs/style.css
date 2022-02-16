@@ -1,0 +1,139 @@
+@font-face {
+	font-family: Lemon Milk;
+	src: url("polices/LEMONMILK-Bold.otf");
+}
+@font-face {
+  font-family: Futura-1;
+  src: url("polices/futura1.otf");
+}
+
+@font-face {
+  font-family: Futura-2;
+  src: url("polices/futura2.otf");
+}
+
+@font-face {
+  font-family: Futura-3;
+  src: url("futura3.otf");
+}
+
+@font-face {
+  font-family: Liber;
+  src:  url("polices/LiberText-TextRegular.otf");
+}
+.tendances{
+  position: absolute;
+  left: 300px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.nouveautes{
+  position: absolute;
+  left: 430px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.lesplusvus{
+  position: absolute;
+  left: 575px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.aleatoire{
+  position: absolute;
+  left: 716px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.recherche{
+  position: absolute;
+  left: 765px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+nav{
+  background: #E3D13B;
+  height: 80px;
+  width: 100%;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 50px;
+  font-family: Futura-2;
+  text-transform: uppercase;
+  position: absolute;
+}
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+.connexion{
+  position: absolute;
+  left: 1075px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.inscription{
+  position: absolute;
+  left: 1220px;
+  line-height: 80px;
+  font-family: Futura-2;
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+.image{
+  width: 15%;
+  border-radius: 10px;
+  position: absolute;
+  left: 15px;
+  top: 120px;
+}
+.informations{
+  color: white;
+  position: absolute;
+  top: 325px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  left: 20px;
+  font-family: Futura-2;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

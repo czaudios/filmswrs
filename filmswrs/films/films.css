@@ -1,0 +1,166 @@
+@font-face {
+	font-family: Lemon Milk;
+	src: url("polices/LEMONMILK-Bold.otf");
+}
+@font-face {
+  font-family: Futura-1;
+  src: url("polices/futura1.otf");
+}
+
+@font-face {
+  font-family: Futura-2;
+  src: url("polices/futura2.otf");
+}
+
+@font-face {
+  font-family: Futura-3;
+  src: url("polices/futura3.otf");
+}
+
+@font-face {
+  font-family: Liber;
+  src:  url("polices/LiberText-TextRegular.otf");
+}
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+nav{
+	background: #E3D13B;
+	height: 80px;
+	width: 100%;
+}
+label.logo{
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 50px;
+	font-family: Futura-2;
+	text-transform: uppercase;
+	position: absolute;
+}
+img{
+	width: 18%;
+	border-radius: 10px;
+	position: absolute;
+	top: 150px;
+	left: 85px;
+}
+.titre{
+	top: 140px;
+	font-size: 50px;
+	font-family: Futura-2;
+}
+.résumé{
+	position: absolute;
+	top: 240px;
+	left: 400px;
+	right: 80px;
+	text-align: center;
+	color: #808584;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.stars{
+	color: yellow;
+	position: absolute;
+	left: 540px;
+	top: 340px;
+	font-size:25px;
+}
+.commentaires{
+	position: absolute;
+	left: 543px;
+	top: 365px;
+	color: #323736;
+	font-size: 18px;
+	font-family: Futura-3;
+	text-transform: uppercase;
+}
+.button1{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    background-color: #323736;
+    position: absolute;
+    top: 345px;
+    left: 990px;
+}
+.button1color{
+	color: white;
+}
+.button2{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    background-color: #290EAF;
+    position: absolute;
+    top: 387px;
+    left: 990px;
+}
+.button2color{
+	color: white;
+}
+.men{
+	word-spacing: 60px;
+	position: absolute;
+	top: 32px;
+	left: 842px;
+	color: white;
+}
+.tendances{
+	position: absolute;
+	left: 300px;
+	line-height: 80px;
+	font-family: Futura-2;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.nouveautes{
+	position: absolute;
+	left: 430px;
+	line-height: 80px;
+	font-family: Futura-2;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.lesplusvus{
+	position: absolute;
+	left: 575px;
+	line-height: 80px;
+	font-family: Futura-2;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.aleatoire{
+	position: absolute;
+	left: 716px;
+	line-height: 80px;
+	font-family: Futura-2;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+.recherche{
+	position: absolute;
+	left: 765px;
+	line-height: 80px;
+	font-family: Futura-2;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+}
